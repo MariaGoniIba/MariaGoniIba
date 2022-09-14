@@ -15,6 +15,8 @@
    - Neuroimaging (magnetic resonance imaging, functional connectivity, diffusion tensor imaging)
    - Smartphone-based digital data (gait, balance, voice, tapping, cognitive tests)
    - Clinical and demographic data.
+   
+ 💡 Currently levelling up my Python skills while refreshing machine learning topics. I will be uploading regularly different exercises for those willing to learn or improve their skills.
 
 
 <h4 align="left">Connect with me:</h4>
