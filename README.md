@@ -11,7 +11,7 @@
 👩‍💻 Experienced in signal processing, data analysis and machine learning applications. 
 
 📝 Type of data I worked with: 
-   - Biological signals (electrocardiogram, electromyogram, respiracion, electrodermal response, photoplethysmography, electroencephalogram and electrocorticography)
+   - Biological signals (electrocardiogram, electromyogram, respiration, electrodermal response, photoplethysmography, electroencephalogram and electrocorticography)
    - Neuroimaging (magnetic resonance imaging, functional connectivity, diffusion tensor imaging)
    - Smartphone-based digital data (gait, balance, voice, tapping, cognitive tests)
    - Clinical outcome assessments and demographic data.
